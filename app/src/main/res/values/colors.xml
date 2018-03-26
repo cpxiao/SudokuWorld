@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--数独背景色-->
+    <color name="sudoku_bg_game_activity">#DFDBC3</color>
+    <color name="sudoku_bg_initial">#cccbcb</color>
+    <color name="sudoku_bg_setup">#ffffffff</color>
+    <color name="sudoku_bg_selected">#42ca8f46</color>
+    <color name="sudoku_line">#ff000000</color>
+
+    <!--数独数字颜色-->
+    <color name="sudoku_number_initial">#000000</color>
+    <color name="sudoku_number_setup">#f04b5bf0</color>
+
+    <!--待选数字相关颜色-->
+    <color name="sudoku_keyboard_btn_bg">#f03c465c</color>
+    <color name="sudoku_keyboard_btn_bg_selected">#f0caba42</color>
+    <color name="sudoku_keyboard_number">#f0f8f8fa</color>
+    <color name="sudoku_keyboard_sign">#f03c465c</color>
+
+</resources>

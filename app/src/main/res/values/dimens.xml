@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="setting_item_height">60dp</dimen>
+
+    <dimen name="settings_item_height">60dp</dimen>
+
+    <!--<dimen name="common_5dp">5dp</dimen>-->
+    <!--<dimen name="common_10dp">10dp</dimen>-->
+    <!--<dimen name="common_20dp">20dp</dimen>-->
+    <!--<dimen name="common_30dp">30dp</dimen>-->
+    <!--<dimen name="common_40dp">40dp</dimen>-->
+    <!--<dimen name="common_50dp">50dp</dimen>-->
+    <!--<dimen name="common_60dp">60dp</dimen>-->
+    <!--<dimen name="common_64dp">64dp</dimen>-->
+    <!--<dimen name="common_80dp">80dp</dimen>-->
+    <!--<dimen name="common_90dp">90dp</dimen>-->
+    <!--<dimen name="common_100dp">100dp</dimen>-->
+    <!--<dimen name="common_120dp">120dp</dimen>-->
+    <!--<dimen name="common_140dp">140dp</dimen>-->
+    <!--<dimen name="common_160dp">160dp</dimen>-->
+    <!--<dimen name="common_180dp">180dp</dimen>-->
+    <!--<dimen name="common_200dp">200dp</dimen>-->
+    <!--<dimen name="common_250dp">250dp</dimen>-->
+
+
+    <!--<dimen name="three_red_star_size">20dp</dimen>-->
+    <!--<dimen name="five_red_star_size">25dp</dimen>-->
+    <!--<dimen name="five_red_star_size_big">40dp</dimen>-->
+
+    <!--<dimen name="text_size_8sp">8sp</dimen>-->
+    <!--<dimen name="text_size_12sp">12sp</dimen>-->
+    <!--<dimen name="text_size_16sp">16sp</dimen>-->
+    <!--<dimen name="text_size_20sp">20sp</dimen>-->
+    <!--<dimen name="text_size_24sp">24sp</dimen>-->
+    <!--<dimen name="text_size_28sp">28sp</dimen>-->
+    <!--<dimen name="text_size_32sp">32sp</dimen>-->
+    <!--<dimen name="text_size_36sp">36sp</dimen>-->
+    <!--<dimen name="text_size_40sp">40sp</dimen>-->
+    <!--<dimen name="text_size_44sp">44sp</dimen>-->
+    <!--<dimen name="text_size_48sp">48sp</dimen>-->
+</resources>

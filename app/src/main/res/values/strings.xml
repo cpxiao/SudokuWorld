@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sudoku World</string>
+
+    <string name="btn_4_grid">4 Grid ( 2 x 2 )</string>
+    <string name="btn_6_grid">6 Grid ( 2 x 3 )</string>
+    <string name="btn_9_grid">9 Grid ( 3 x 3 )</string>
+    <string name="btn_12_grid">12 Grid ( 3 x 4 )</string>
+    <string name="btn_16_grid">16 Grid ( 4 x 4 )</string>
+    <string name="btn_20_grid">20 Grid ( 4 x 5 )</string>
+    <string name="best_score">Best Score</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_new_game">New Game</string>
+    <string name="btn_quit">Quit</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="you_win">You Win</string>
+    <string name="start_a_new_game">Do you want to start a new game ？</string>
+
+
+    <!--<string name="sudoku_mode">Mode</string>-->
+    <!--<string name="sudoku_mode_9x9"> 9 x 9 </string>-->
+    <!--<string name="sudoku_mode_16x16">16 x 16</string>-->
+    <!--<string name="sudoku_mode_25x25">25 x 25</string>-->
+
+    <string name="game_difficulty">Game Difficulty</string>
+    <string name="breezy">Breezy</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="insane">Insane</string>
+
+    <string name="tools_btn_tips">Tips</string>
+    <string name="tools_btn_show">Show</string>
+    <string name="tools_btn_sign">Sign</string>
+    <string name="tools_btn_delete">Delete</string>
+    <string name="quit_msg">Quit the Game ?</string>
+
+    <string name="settings">Settings</string>
+    <string name="settings_color_alpha">Color Alpha</string>
+    <string name="settings_sound">Sound</string>
+    <string name="settings_bgm">Music</string>
+    <string name="settings_on">On</string>
+    <string name="settings_off">Off</string>
+
+    <string name="tip">Tip</string>
+    <string name="show_count">Show Count</string>
+    <string name="show_selected">Show Selected</string>
+    <string name="delete">Delete</string>
+
+</resources>

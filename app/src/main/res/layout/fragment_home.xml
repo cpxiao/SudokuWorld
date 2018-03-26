@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fragment_home_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="100dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="@string/app_name"
+        android:textColor="#53a1e6"
+        android:textSize="32sp"/>
+
+    <LinearLayout
+        style="@style/HomeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_4_grid"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_4_grid"/>
+
+        <Button
+            android:id="@+id/btn_6_grid"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_6_grid"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/HomeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_9_grid"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_9_grid"/>
+
+        <Button
+            android:id="@+id/btn_12_grid"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_12_grid"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/HomeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_16_grid"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_16_grid"/>
+
+        <Button
+            android:id="@+id/btn_20_grid"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_20_grid"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/HomeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_best_score"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/best_score"/>
+
+        <Button
+            android:id="@+id/btn_settings"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/settings"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/HomeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_rate"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/rate"/>
+
+        <Button
+            android:id="@+id/btn_share"
+            style="@style/HomeBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/share"/>
+    </LinearLayout>
+
+
+</LinearLayout>
